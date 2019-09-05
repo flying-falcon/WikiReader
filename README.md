@@ -22,6 +22,14 @@ Once initialised user can enter these commands.
 
 ## Usage
 
+```Usage: read_wiki [options]
+
+Options:
+  -l, --language <type>  Select Language
+  -h, --help             output usage information
+```
+* use -l to select language
+
 ### 1. READ &lt;article&gt; usage :
 
 ***Note: Article must be unique.***
